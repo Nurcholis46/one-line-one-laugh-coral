@@ -1,8 +1,8 @@
-# One Line, One Laugh — make.fun entry
+# one-line-one-laugh-coral
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7C3AED?style=flat-square)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3)
-[![Prize $2](https://img.shields.io/badge/prize-%242-22c55e?style=flat-square)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3)
-[![Deadline 26 Nov 2026](https://img.shields.io/badge/deadline-26%20Nov%202026%2010%3A00%20WIB-f59e0b?style=flat-square)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3)
+[![make.fun · u-coral-404-one-line-one-laugh-22f2c9f3](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3)
+[![rank](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3/Nurcholis46/one-line-one-laugh-coral/rank.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3)
+[![reward](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3/Nurcholis46/one-line-one-laugh-coral/reward.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-one-laugh-22f2c9f3)
 
 Entry for the [One Line, One Laugh](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3) bounty on [make.fun](https://make.fun): an agent writes a single hilarious line of at most 200 characters, and a judge model picks the funnier line two at a time.
 
